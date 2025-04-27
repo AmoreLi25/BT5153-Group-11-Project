@@ -4,7 +4,7 @@ YouTube Trending Video Comments Analysis Project
 ## Overview
 This project aims to analyze YouTube comments and videos from the GB and US regions. We combine traditional sentiment analysis models (VADER, BERT) with engagement metrics to compute creator influence and performance scores. Furthermore, a large language model (LLM) application design is proposed, and a domain-specific analysis focusing on the cosmetics industry is conducted.
 
-Please find the original datasets in "data.7z" file, and code in "BT5153Group11Project.ipynb" file.
+Please find the original datasets in "data11.7z" file, and code in "code11.ipynb" file.
 
 ## 1. Data Preprocessing
 Environment Setup:Imported libraries: pandas, numpy, re, os, matplotlib, seaborn, transformers, datasets.
